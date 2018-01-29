@@ -1,0 +1,10 @@
+Jean Grey: Cyclops, Wolverine, Hulk, Black Panther, Star-Lord, Iron Man, Thor, Hawkeye, Captain America, Daredevil
+Mystique: Cyclops, Iron Man, Captain America, Hulk, Black Panther, Thor, Star-Lord, Hawkeye, Wolverine, Daredevil
+Black Widow: Hulk, Cyclops, Hawkeye, Black Panther, Daredevil, Captain America, Star-Lord, Iron Man, Thor, Wolverine
+Scarlet Witch: Hulk, Wolverine, Captain America, Iron Man, Star-Lord, Daredevil, Black Panther, Thor, Cyclops, Hawkeye
+Elektra: Wolverine, Daredevil, Hulk, Thor, Iron Man, Black Panther, Captain America, Hawkeye, Star-Lord, Cyclops
+Ms. Marvel: Cyclops, Iron Man, Hawkeye, Star-Lord, Wolverine, Thor, Hulk, Black Panther, Captain America, Daredevil
+Rouge: Wolverine, Black Panther, Daredevil, Hulk, Cyclops, Iron Man, Captain America, Hawkeye, Thor, Star-Lord
+Storm: Black Panther, Wolverine, Cyclops, Iron Man, Star-Lord, Thor, Daredevil, Hawkeye, Captain America, Hulk
+Gamora: Star-Lord, Captain America, Daredevil, Black Panther, Hulk, Cyclops, Iron Man, Hawkeye, Wolverine, Thor
+Invisible Woman: Hawkeye, Daredevil, Black Panther, Iron Man, Cyclops, Wolverine, Captain America, Star-Lord, Hulk, Thor

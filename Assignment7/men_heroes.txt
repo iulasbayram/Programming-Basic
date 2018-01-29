@@ -1,0 +1,10 @@
+Iron Man: Jean Grey, Elektra, Black Widow, Gamora, Invisible Woman, Scarlet Witch, Ms. Marvel, Mystique, Storm, Rouge
+Cyclops: Black Widow, Storm, Jean Grey, Scarlet Witch, Elektra, Ms. Marvel, Mystique, Invisible Woman, Gamora, Rouge
+Captain America: Storm, Elektra, Jean Grey, Scarlet Witch, Mystique, Ms. Marvel, Gamora, Rouge, Black Widow, Invisible Woman
+Thor: Gamora, Ms. Marvel, Scarlet Witch, Rouge, Storm, Elektra, Invisible Woman, Mystique, Black Widow, Jean Grey
+Hawkeye: Invisible Woman, Scarlet Witch, Mystique, Black Widow, Ms. Marvel, Elektra, Jean Grey, Gamora, Storm, Rouge
+Wolverine: Mystique, Jean Grey, Scarlet Witch, Rouge, Elektra, Gamora, Black Widow, Invisible Woman, Storm, Ms. Marvel
+Black Panther: Rouge, Elektra, Gamora, Mystique, Black Widow, Jean Grey, Scarlet Witch, Storm, Invisible Woman, Ms. Marvel
+Daredevil: Jean Grey, Elektra, Storm, Ms. Marvel, Gamora, Black Widow, Invisible Woman, Mystique, Rouge, Scarlet Witch
+Star Lord: Storm, Black Widow, Scarlet Witch, Rouge, Mystique, Jean Grey, Ms. Marvel, Gamora, Invisible Woman, Elektra
+Hulk: Jean Grey, Ms. Marvel, Invisible Woman, Rouge, Elektra, Mystique, Scarlet Witch, Black Widow, Gamora, Storm
